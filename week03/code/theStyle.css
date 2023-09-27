@@ -2,6 +2,22 @@ body {
     background-color: pink;
 }
 
-p {
+main {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.unicorns {
     background-color: green;
+    font-size: 4vw;
+    font-family: 'Nabla', cursive;
+    padding: 40px;
+    border: 10px dotted rebeccapurple;
+}
+
+#horse{
+    background-color: yellow;
+    text-align: center;
+    font-size: 50px;
 }
