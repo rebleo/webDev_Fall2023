@@ -1,8 +1,6 @@
 
 ##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
 
-![theBoxModel](boxModel.png)
-#### [the Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 ##### CSS Positioning Studio!
   * with a partner create a WoS inspired website using this [MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
