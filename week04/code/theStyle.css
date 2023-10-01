@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: yellow;
+    padding: 10px;
+}
+
+p {
+    background-color: green;
+    padding: 3vw;
+}
