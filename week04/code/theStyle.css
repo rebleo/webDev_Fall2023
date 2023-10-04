@@ -26,3 +26,11 @@ details {
     background-color: red;
     font-size: 100px;
 }
+
+footer {
+    display: grid;
+    background-color: white;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 4vw;
+    padding: 3vw;
+}
