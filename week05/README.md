@@ -1,8 +1,6 @@
 
 ##### 💾   Pair programming presentation net.art project
 
-Checo & Taneim - Death Imitates Language https://deathimitateslanguage.harmvandendorpel.com/ 
-
 ##### In class presentations are due Monday October 16
 With a partner, choose 1 artwork from either the [Rhizome's net.art Anthology](https://anthology.rhizome.org/) or [Chronus Art Center's WE-LINK online exhibitions](http://we-link.chronusartcenter.org/) to present to the class in a 7  minute presentation. Students should share a brief introduction to the artist(s), an explaination of the work and most imporatntly their thoughts on the expirence of the interactive artwork. 
 * You MUST create your [slide deck](https://www.google.com/search?q=slide+deck&oq=slide+deck&aqs=chrome..69i57j0l9.3609j0j7&sourceid=chrome&ie=UTF-8) using HTML, CSS + host on your class site. Each slide should be a relative link to another html page or a more sophisticated system if you choose. Use an external styling sheet to keep the styling of your presentation uniform. 
