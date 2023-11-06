@@ -1,0 +1,37 @@
+body {
+    background-color: green;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+button {
+    border-radius: 100%;
+    padding: 3vw;
+    border: none;
+
+}
+
+button:hover{
+    background-color: pink;
+}
+
+input {
+    background-color: pink;
+    
+}
+
+input:hover {
+    background-color: yellow;
+}
+
+p {
+    background-color: gray;
+    width: 100px;
+    padding: 3vw;
+    border-radius: 100%;
+    margin: 30px;
+}
+
+p:hover {
+    background-color: black;
+    color:white;
+}
