@@ -7,6 +7,7 @@ let theDivider = document.querySelector("div")
 let theUserWords;
 let theItem;
 let theTxt;
+let array = []
 
 theButton.addEventListener('click', makeList)
 
@@ -20,6 +21,7 @@ function makeList() {
     // document.body.appendChild(theItem);
     theDivider.appendChild(theItem);
     theItem.appendChild(theTxt);
+    
 }
 
 document.querySelector("p").addEventListener('click', eraseList)

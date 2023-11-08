@@ -2,7 +2,8 @@
 ### More JS Libraires
 #### But Also [are js frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
 
-
+### NPL libarayr
+#### [Rita.js](https://rednoise.org/rita/)
 ### Traditional "oy making websites is annoying please make it less so.." frameworks
 #### [Bootstrap](https://getbootstrap.com/)
 Great library for quickly prototyping a responsive site. --rl
