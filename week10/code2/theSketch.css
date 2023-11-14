@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+    font-size: 50px;
+}
+
+main{
+    display:flex;
+    flex-direction: column;
+}
+
+input{
+    background-color: pink;
+
+}
