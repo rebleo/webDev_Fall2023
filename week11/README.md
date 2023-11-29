@@ -1,8 +1,6 @@
 #### Final Project
 Your Final Must be a contemporary responsive web site. It **not** be a portfolio site. I am not setting a page # requirement, but will be looking for evidence that you put effort into making the most technically + aesthetically sophisticated project you can.
 
-If programming seems daunting - your JS can be minimal , but in this case perhaps you will want to become an expert with CSS animations or the like? I will also accept web-based code projects using p5.js - but individual sketches must be linked from a home index page.
-
 * Original Content - no memes!
 This should be a portfolio piece you can refer to after you graduate to showcase both your design + technical abilities (image-making is also a skill).
 
@@ -11,7 +9,7 @@ This should be a portfolio piece you can refer to after you graduate to showcase
   * CSS Positioning and Layout (responsive, flex or grid)
   * JavaScript Interactivity
   * Thoughtful + Appealing Design
-  * Posted to Your FM Server
+  * Posted to your github pages
 
 #### Time-Frame
 * Week 12 - Monday Nov 27
